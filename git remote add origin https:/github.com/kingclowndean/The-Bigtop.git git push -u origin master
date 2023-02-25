@@ -1,0 +1,100 @@
+X-Apparently-To: petrescuers@yahoo.com; Fri, 13 Sep 2019 16:08:11 +0000
+Return-Path: <do-not-reply@indeed.com>
+Authentication-Results: mta4037.mail.bf1.yahoo.com; 
+ dkim=pass (ok) header.i=@indeed.com header.s=default;
+ spf=pass smtp.mailfrom=@indeed.com;
+ dmarc=pass(p=quarantine sp=NULL dis=none) header.from=indeed.com;
+Received-SPF: pass (domain of indeed.com designates 198.58.75.65 as permitted sender)
+X-YMailISG: RMrRXFUWLDsmh4Kv.hQZBNZSRlpq_2o9Alv8Hf2DOdK6TECH
+ YTLVlOZwRSAHBlxaW0NbhPKZ3ocy4uJUq0PkGTjm_a9icjPUDz.brRuVB09g
+ URr6kln3U6oeGfsT2gIqIkz7mnPmnl1k.kKOoEn32BG7eoYyTCF075dns257
+ M3lcEQqb69Vt8eHVcmLNmiOlZ2k54kx7HXt69bqaxssOnEENURRAdrxuNXOv
+ tC3XG2Yr6IHaGk9Rw7Mxc06jMEFzppzcEefUBZRXJRiylBzRaTGrVWXu5NO6
+ EDtPQ1TcRAMmefy9TFY9BI4wV6_j5wvGqvgmSR2exu.otBnwIaL6sCbe6B7y
+ t4OwwXj3LnIzl2x_e2OOgFBKiDu77Asg9n34WLOtyAGpes.cdbF_LAmS0hJN
+ IFDnU.A9TvTMN01o1rPehJMETWFKmfCfs.080zV5YErnERV53wTXc_rl4JeS
+ a_Azyr74LjMRSbv880947o6J_CO6FMxADf1B24w7mWU1JM_nGl2v0j.BY5.W
+ QzJdX7I7kQWbk3zk6AQzg16DQUuMIOFUFCEDP.Mu1Q03l8nEFY9HCb98Q88h
+ HG6li0XJYkGJqaGIH4TGxcvQ.37e50C7Qpmu3a1vqNNBQVM52jc0B1_fU1N1
+ hnqiBnnusqTpJGWKEmxB07RiN9Xwrf0FGoKj.QnMZUKJckFbYtIqAtMfTBch
+ UfIL132g1LB49diL2wAtmvSVARH2tdcILz7_gx8TYqyrZbpSD4eLPUsp3SMH
+ EKK9DLtXzlTXwJvEPHpc5MzhbBMAKJJZV2O4_Ii2om1YIRfZgAP6vha0ivhf
+ nF_GQ5xuzOBAhneJIUbs2KhGiiUAb6Fuci_2JiIr1Leoq_X2tdjZWOo1Pdz9
+ jo9Qjvri2gfog_1KzDDmrz_mLLnOsEyuGAuitiwTaYpQHO1r.MFiFBDQnphf
+ SZ0UYDC.BdnkjRsr6OgAJAZ31e1LlQX_SFTmvS0QmKdECch29vPAaBFdq8hJ
+ 3Wy5_yKGu9g5JIOZpi_9bMuLIcXKPJFQqqW_5ywWAqplAfGZam54NWKXNKNT
+ f5thi9xhrcgpDrKghftcl2aIe2rGLGi1unsWKlvU0EWi0W.X6I1gEvAO47s.
+ PTEGSi4OeKfp9QHECGAZhZseUmnW1qqmK1.t89lL5zZeCU1ENg1pfQq2lwtn
+ EIx.6MXzSfSTrTtQtAmd6TdObjS4VX9XSVU7N60v7AVW4EGC.J30iE3y.cAO
+ 9aOLSxYwsBaCuupflDAPu_nkETd7IOaRrF4s96PjD8Y-
+X-Originating-IP: [198.58.75.65]
+Received: from 10.197.40.73  (EHLO mail65.indeed.com) (198.58.75.65)
+  by mta4037.mail.bf1.yahoo.com with SMTPS; Fri, 13 Sep 2019 16:08:11 +0000
+Received: from aus-mexec86.indeed.net (aus-smtp2.indeed.net [10.1.3.211])
+	by mail65.indeed.com (Postfix) with ESMTP id 46VLCG4VHqz7QQv6
+	for <petrescuers@yahoo.com>; Fri, 13 Sep 2019 11:08:10 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1568390890;
+	bh=ryEGFcZgyXBLGJpX+zw+J5uCGb/QtqEQi07eUqKN+Ok=;
+	h=From:Reply-To:To:Subject:Date;
+	b=sIl8b5W6UhAazwqcgQ5nfBuBkrRZC4p3j8nicPMzTBKHJ7XLcNxo+Fm5+uA2TovkS
+	 b5NGXd/xIiEyT77bctWAbajz1LXJg3Dc6F9dnhFt0YxRC7X1Zg3DN5MOehUSLdFqz9
+	 1JG0OUgTyE6WMJKZBd2XUD5kB39DhbCl/Z2CRwRU=
+From: Indeed Support <do-not-reply@indeed.com>
+Reply-To: do-not-reply@indeed.com
+To: petrescuers@yahoo.com
+Message-ID: <1772224727.21929261.1568390890628.JavaMail.notifications@aus-mexec86.indeed.net>
+Subject: Reset your password on Indeed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_21929260_881589277.1568390890628"
+Precedence: list
+Auto-Submitted: auto-generated
+X-Indeed-FBL: :2:a07e9ac56b3481cd07252f6d0345af26b6ca0efe353e6a96
+X-Indeed-Client-App: passport
+X-Indeed-Content-Type: forgotPassword
+X-Indeed-TK: 1dklm3g681dki000
+Date: Fri, 13 Sep 2019 11:08:10 -0500 (CDT)
+Content-Length: 3091
+
+------=_Part_21929260_881589277.1568390890628
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+As requested, here is a link to allow you to select a new Indeed password:
+https://secure.indeed.com/account/resetpassword?__email=petrescuers%40yahoo.com&key=c9e4d24e9b0693c9ea7f23ff39423e96&e=forgotPassword&hl=en_US&co=US&service=my&continue=https%3A%2F%2Fwww.indeed.com%2F&tmpl=auto&form_tk=1dklm3g4n1dki000
+
+This link will expire in 24 hours.
+
+If you need further assistance, please visit:
+https://www.indeed.com/support
+
+&copy; 2019 Indeed, Inc. | 6433 Champion Grandview Way, Building 1, Austin, TX 78750
+
+PRIVACY POLICY: https://www.indeed.com/legal#privacy | TERMS: https://www.indeed.com/legal#tos | HELP: https://indeed.zendesk.com/hc/en-us
+------=_Part_21929260_881589277.1568390890628
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body dir="ltr"><img src="https://subscriptions.indeed.com/imgping?tk=1dklm3g681dki000&type=postOpen&contentType=forgotPassword&token=CkAPWBvfKrFpefDTPQosl3qMB7cc2_roFRYOqpJJCOZjUWm8eZcwTx8tUKFRFS14i5RUyqTmGsEJ8HBlCpBR23GpEiAEP37ByFcuuBE7OOrv3rSlyY3fRkPFdMMJxhXHKFROMRoQmNPxCElYpOFO76dafgXVYw%3D%3D" height="1" width="1">
+<div style="padding-left:10px;color:#000">
+    <table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:0.5em">
+        <tr>
+            <td style="font-family:Arial,sans-serif;width:43em">
+                <p>As requested, here is a link to allow you to select a new Indeed password:<br/><a href="https://secure.indeed.com/account/resetpassword?__email=petrescuers%40yahoo.com&key=c9e4d24e9b0693c9ea7f23ff39423e96&e=forgotPassword&hl=en_US&co=US&service=my&continue=https%3A%2F%2Fwww.indeed.com%2F&tmpl=auto&form_tk=1dklm3g4n1dki000">https://secure.indeed.com/account/resetpassword?__email=petrescuers%40yahoo.com&key=c9e4d24e9b0693c9ea7f23ff39423e96&e=forgotPassword&hl=en_US&co=US&service=my&continue=https%3A%2F%2Fwww.indeed.com%2F&tmpl=auto&form_tk=1dklm3g4n1dki000</a><p>
+                <p>This link will expire in 24 hours.<p>
+                <p>If you need further assistance, please <a href="https://www.indeed.com/support">contact us</a>.<p>
+                <div style="text-align:center;">
+                    <p style="padding-top:1em;" dir="ltr">&copy; 2019 Indeed, Inc.<br>
+                    6433 Champion Grandview Way, Building 1, Austin, TX 78750</p>
+                    <p style="text-decoration:none;"><a href="https://www.indeed.com/legal#privacy" style="text-decoration:none;">PRIVACY POLICY</a> | <a href="https://www.indeed.com/legal#tos" style="text-decoration:none;">TERMS</a> | <a href="https://indeed.zendesk.com/hc/en-us" style="text-decoration:none;">HELP</a></p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<img src="https://subscriptions.indeed.com/imgping?type=forgetpassword&tk=1dklm3g681dki000" height="1" width="1"><img src="https://subscriptions.indeed.com/imgping?tk=1dklm3g681dki000&type=forgotPassword" height="1" width="1"></body>
+</html>
+------=_Part_21929260_881589277.1568390890628--git remote add origin https://github.com/kingclowndean/The-Bigtop.git
+git push -u origin master
